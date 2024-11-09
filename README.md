@@ -5,5 +5,5 @@ Florence James G. Salem
 
 # Member:
 Cheska Hillary Cablinda
-Princess Diana Mante
-Mc Daniel Ranario
+\n Princess Diana Mante
+\n Mc Daniel Ranario
