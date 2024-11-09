@@ -3,7 +3,7 @@
 # Leader:
 Florence James G. Salem
 
-# Member:
-Cheska Hillary Cablinda
-\n Princess Diana Mante
-\n Mc Daniel Ranario
+## Member:
+## Cheska Hillary Cablinda,
+## Princess Diana Mante
+## Mc Daniel Ranario
